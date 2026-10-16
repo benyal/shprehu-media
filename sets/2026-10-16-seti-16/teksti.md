@@ -1,6 +1,6 @@
 # Seti 16 (TikTok Photo Mode, 1080x1920): 4 karusele dhe 1 video, me hook-e për algoritëm
 
-Çfarë është e re krahasuar me setet e mëparshme: asnjë nga këto tema nuk është bërë (fëmija i fqinjit, autobusi i së dielës, statusi që e shikon e s’i shkruan, pastrimi i orës 2 të natës, fjala „asgjë“). Pamjet janë të reja: fletë fletoreje me notë të kuqe, autobus që ecën nga perëndimi te nata, rrathë statusi dhe flluska mesazhesh, flluska sapuni që shtohen, dhe një video vetëm me tekst e bisedë.
+Çfarë është e re krahasuar me setet e mëparshme: asnjë nga këto tema nuk është bërë (fëmija i fqinjit, autobusi i së premtes, statusi që e shikon e s’i shkruan, pastrimi i orës 2 të natës, fjala „asgjë“). Pamjet janë të reja: fletë fletoreje me notë të kuqe, autobus që ecën drejt shtëpisë me dritare të ndezur, rrathë statusi dhe flluska mesazhesh, flluska sapuni që shtohen, dhe një video vetëm me tekst e bisedë.
 
 **Si janë ndërtuar për algoritmin (pa gënjyer):**
 - Hook-u është një **fjali e hapur** që e detyron njeriun të rrëshqasë ose të shohë deri në fund: „Kishte një fëmijë që na e përmendnin çdo ditë…“, „E sheh statusin e tij. S’i shkruan kurrë.“, „Asgjë është fjala më e gjatë në shqip.“
@@ -13,10 +13,10 @@ Formula: ritual shqiptar me kuptim të ri (krahasimi në familje).
 **Përshkrim:** Kishte një fëmijë në çdo lagje që na e përmendnin çdo ditë. Kush ishte i yti? Shkruaje në koment, dhe dërgoja dikujt që ende e dëgjon atë zë. #shprehu #femijaifqinjit #familja #shqip #kosova #shqiperia #fyp
 **Hook-e për testim:** „Ai fëmijë që na e përmendnin çdo ditë“ · „‘Shiko të fqinjit’ dhe ende e dëgjojmë“ · „Ai fëmijë nuk ishte kurrë gara jote“
 
-## Karusel A: „Autobusi i së dielës“ (a-autobusi-1 deri 6)
-Formula: ritual shqiptar me orë konkrete (16:40, 17:55, 19:10, 22:40).
-**Përshkrim:** Qesja që të fut nëna kur largohesh. Çfarë kishte brenda te ju? Ruaje nëse e ke jetuar. #shprehu #autobusi #studentet #gurbeti #shqip #kosova #shqiperia #fyp
-**Hook-e për testim:** „Autobusi i së dielës ka një heshtje të vetën“ · „Nëna të futi një qese. Nuk e pyete çfarë ka brenda“ · „‘Mbërrita mirë’ mban shumë më tepër“
+## Karusel B: „Autobusi i së premtes“ (b-autobusi-premte-1 deri 6)
+Formula: ritual shqiptar me kuptim të ri, me orë konkrete (15:20, 17:10, 19:40, 22:00). Nga versioni i parë „e diela“ u bë „e premte“: kthimi në shtëpi, gëzimi dhe „jam mirë“ që e thuhet prapë.
+**Përshkrim:** Autobusi i së premtes drejt shtëpisë: gëzim, valixhe dhe një „jam mirë“ që e përgatit gjatë rrugës. Kush e bënte këtë? Ruaje nëse e ke jetuar. #shprehu #autobusi #studentet #gurbeti #shqip #kosova #shqiperia #fyp
+**Hook-e për testim:** „Autobusi i së premtes ka një gëzim dhe një provë“ · „Gjithë javën the ‘mirë’. Tani po shkon te ata që të njohin“ · „Nëna të shikon një sekondë dhe e kupton gjithçka“
 
 ## Karusel S: „Statusi“ (s-statusi-1 deri 6)
 Formula: gjë që e bëjmë fshehurazi, me skenë konkrete dhe orë (21:13).
@@ -37,7 +37,7 @@ Hook: „‘Asgjë’ është fjala më e gjatë në shqip.“ Pastaj bisedë �
 ## Radha e postimit (TikTok, 20:00 deri 22:00; Instagram dhe Facebook në 21:00 deri 01:00 kur ka më shumë njerëz)
 1. **S „Statusi“** (skena më e fortë e fshehtë me orë), dita 1.
 2. **F „Fëmija i fqinjit“** (e njohur nga çdo familje, e bën njeriun të komentojë), dita 2.
-3. **A „Autobusi i së dielës“**: postoje të **dielën pasdite deri në mbrëmje**, kur ndjesia është e gjallë.
+3. **B „Autobusi i së premtes“**: postoje të **premten pasdite deri në mbrëmje**, kur njerëzit janë në rrugë për shtëpi.
 4. **Video „Asgjë“**, dita 3, pas dy karuseleve.
 5. **P „Pastrimi i orës 2“**: postoje afër mesnatës.
 Mos poste më shumë se 2 në ditë. Për Instagram karuselet duhen 4:5 (1080×1350), jo 9:16: kërkoji ri-formatimin dhe e bëj vetë kur t’i postoj. Pas 48 orësh shiko shikimet dhe ruajtjet dhe ma thuaj, që ta përditësoj tabelën e formulave.
