@@ -12,7 +12,7 @@ Hook-e për A/B (slide-i 1):
 3. Na rritën me fjali që nuk i zgjodhëm. Të dëgjuarit sa prej tyre?
 
 Caption TikTok: Sa prej këtyre 5 i ke dëgjuar? Shkruaje numrin në koment. Dërgoja dikujt që i ka dëgjuar të gjitha. #shqip #kosova #shqiperia #shprehu #albanian
-Teksti i reklamës (12 deri 100): 5 fjali që na i thanë të gjithëve në shtëpi. Sa prej tyre i ke dëgjuar? (91 shkronja)
+Teksti i reklamës (12 deri 100): 5 fjali që na i thanë të gjithëve në shtëpi. Sa prej tyre i ke dëgjuar? (71 shkronja)
 Alternativë: „Mos qaj, s’ka gjë.“ Kush ta tha këtë? Fol në Shprehu, pa emër.
 
 ## B: „Burrat s’qajnë“ (b/s1 deri s7, slideshow-b.mp4)
@@ -23,7 +23,7 @@ Hook-e:
 3. Në oborrin e shkollës mësuam diçka që s’e harruam kurrë.
 
 Caption TikTok: „Burrat s’qajnë.“ Kush e shpiku këtë rregull? Shkruaje mendimin tënd, dhe dërgoja dikujt që e ka mbajtur brenda. #shqip #kosova #shqiperia #shprehu #albanian
-Teksti i reklamës: Në shkollë na mësuan që burrat s’qajnë. Ti çfarë mendon? Fol anonimisht në Shprehu. (97 shkronja)
+Teksti i reklamës (12 deri 100): Në shkollë na mësuan që burrat s’qajnë. Ti çfarë mendon? Fol anonimisht në Shprehu. (83 shkronja)
 Kujdes: provokimi është te rregulli i pashkruar, jo te burrat; mos e ndrysho në tallje me gjininë.
 
 ## C: „Çka ndodh në shtëpi, mbetet në shtëpi“ (c/s1 deri s7, slideshow-c.mp4)
@@ -34,7 +34,7 @@ Hook-e:
 3. Për çfarë flet familja jote në darkë? Për çfarë nuk flet kurrë?
 
 Caption TikTok: „Çka ndodh në shtëpi, mbetet në shtëpi.“ A pajtohesh? Shkruaj po ose jo. Dhe dërgoja dikujt me të cilin nuk e keni thënë kurrë. #shqip #kosova #shqiperia #shprehu #albanian
-Teksti i reklamës: Çka s’thuhet në tryezë, thuaje këtu. Anonim, falas, në shqip. (74 shkronja)
+Teksti i reklamës (12 deri 100): Çka s’thuhet në tryezë, thuaje këtu. Anonim, falas, në shqip. (61 shkronja)
 
 ## Vendosja
 - Fillimisht posto organikisht (TikTok Photo Mode, 7 foto, muzika nga biblioteka e TikTok për organik); pas 24 deri 48 orësh promovo atë që ka më shumë ruajtje dhe komente si Spark Ad. Muzika trending nuk lejohet në reklama me pagesë: për Spark Ad ose slideshow përdor muzikën origjinale.
