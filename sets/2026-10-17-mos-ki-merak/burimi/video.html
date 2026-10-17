@@ -1,0 +1,90 @@
+<!doctype html>
+<html lang="sq">
+<head>
+<meta charset="utf-8">
+<link rel="stylesheet" href="file:///home/user/Shprehu-3.5/.claude/skills/shprehu-social-ads/assets/brand.css">
+<style>
+  html, body { width: 1080px; height: 1920px; overflow: hidden; }
+  body { background: #FAF7F1; }
+  .sc { position: absolute; inset: 0; opacity: 0; }
+  .a { background: #F3EFE7; } .b { background: #2E4A43; color: #FAF7F1; } .c { background: #FAF7F1; } .d { background: #2E4A43; color: #FAF7F1; }
+  .serif { font-family: 'Fraunces', Georgia, serif; font-weight: 600; letter-spacing: -0.025em; }
+  .stack { position: absolute; left: 90px; right: 90px; top: 520px; display: grid; gap: 6px; }
+  .stack .l { font-size: 132px; line-height: 1.04; opacity: 0; white-space: nowrap; }
+  .tag { position: absolute; left: 96px; right: 96px; top: 330px; font-size: 38px; font-weight: 600; letter-spacing: .08em; text-transform: uppercase; color: #3F6259; opacity: 0; }
+  .after { position: absolute; left: 96px; right: 100px; top: 1290px; font-size: 68px; line-height: 1.25; color: #4A443C; opacity: 0; }
+  .big { position: absolute; left: 96px; right: 100px; font-size: 104px; line-height: 1.06; opacity: 0; }
+  .sub { position: absolute; left: 96px; right: 100px; font-size: 46px; line-height: 1.3; opacity: 0; }
+  em { font-style: italic; font-weight: 500; }
+  .b em, .d em { color: #E8B96C; } .c em, .a em { color: #3F6259; }
+  .logo { position: absolute; left: 96px; top: 420px; display: flex; align-items: center; gap: 26px; opacity: 0; }
+  .logo img { width: 110px; height: 110px; border-radius: 26px; }
+  .logo b { font-family: 'Sacramento', cursive; font-weight: 400; font-size: 98px; line-height: 1; }
+  .fine { position: absolute; left: 96px; right: 100px; top: 1360px; font-size: 32px; line-height: 1.4; color: rgba(250,247,241,.8); opacity: 0; }
+  .url { position: absolute; left: 96px; top: 1230px; font-size: 54px; font-weight: 700; opacity: 0; }
+</style>
+</head>
+<body>
+<div class="sc a" id="sa">
+  <div class="tag" id="tg">E themi njëqind herë në ditë</div>
+  <div class="stack serif" id="stk">
+    <div class="l" style="color:#221F1C">Mos ki merak.</div>
+    <div class="l" style="color:#3F6259">Mos ki merak.</div>
+    <div class="l" style="color:#B8862F">Mos ki merak.</div>
+    <div class="l" style="color:#221F1C">Mos ki merak.</div>
+    <div class="l" style="color:#3F6259">Mos ki merak.</div>
+  </div>
+  <div class="after serif" id="af">Po ty, kush ta thotë ty?</div>
+</div>
+
+<div class="sc b" id="sb">
+  <div class="big serif" id="b1" style="top:520px">Kujt ia thua <em>ti</em> kur ke merak vetë?</div>
+  <div class="sub" id="b2" style="top:1110px; font-size:54px">Shpesh, askujt. E mbyll brenda dhe thua: „s’ka gjë“.</div>
+  <div class="sub" id="b3" style="top:1400px;color:#E8B96C;font-weight:600;font-size:64px">Dhe kjo rëndon.</div>
+</div>
+
+<div class="sc c" id="sc">
+  <div class="big serif" id="c1" style="top:540px; color:#221F1C">Të kesh merak nuk është <em>dobësi.</em></div>
+  <div class="sub" id="c2" style="top:1130px; color:#4A443C; font-size:54px">Do të thotë që diçka të vlen. Dhe ti ke të drejtë ta thuash.</div>
+</div>
+
+<div class="sc d" id="sd">
+  <div class="logo" id="lg"><img src="file:///home/user/Shprehu-3.5/.claude/skills/shprehu-social-ads/assets/logo-mark.png" alt=""><b>Shprehu</b></div>
+  <div class="big serif" id="d1" style="top:660px; font-size:96px">Thuaje diku, <em>pa emër.</em></div>
+  <div class="sub" id="d2" style="top:1010px; color:rgba(250,247,241,.92); font-size:50px">Anonim, falas dhe në shqip. Dikush të dëgjon.</div>
+  <div class="url" id="ur">shprehu.cc</div>
+  <div class="fine" id="fn">Shprehu nuk është shërbim urgjence. Në rrezik, telefono 112.</div>
+</div>
+
+<script>
+  const $ = id => document.getElementById(id);
+  const clamp = (x, a = 0, b = 1) => Math.min(b, Math.max(a, x));
+  const ease = x => 1 - Math.pow(1 - clamp(x), 3);
+  const seg = (t, a, b) => clamp((t - a) / (b - a));
+  const vis = (t, a, b, c, d) => ease(seg(t, a, b)) * (c == null ? 1 : 1 - ease(seg(t, c, d)));
+  function show(el, o, dy = 24) { el.style.opacity = o; el.style.transform = `translateY(${(1 - o) * dy}px)`; }
+  function render(ms) {
+    const t = ms / 1000;
+    $('sa').style.opacity = vis(t, 0, 0.2, 3.9, 4.2);
+    show($('tg'), vis(t, 0.2, 0.6, 3.9, 4.2), 14);
+    [...$('stk').children].forEach((el, i) => show(el, vis(t, 0.5 + i * 0.28, 0.8 + i * 0.28, 3.9, 4.2), 36));
+    show($('af'), vis(t, 2.3, 2.9, 3.9, 4.2));
+    $('sb').style.opacity = vis(t, 4.0, 4.3, 8.1, 8.4);
+    show($('b1'), vis(t, 4.2, 4.9, 8.0, 8.3), 30);
+    show($('b2'), vis(t, 5.6, 6.2, 8.0, 8.3));
+    show($('b3'), vis(t, 6.8, 7.3, 8.0, 8.3));
+    $('sc').style.opacity = vis(t, 8.2, 8.5, 11.9, 12.2);
+    show($('c1'), vis(t, 8.4, 9.1, 11.8, 12.1), 30);
+    show($('c2'), vis(t, 9.8, 10.4, 11.8, 12.1));
+    $('sd').style.opacity = vis(t, 12.0, 12.3);
+    show($('lg'), vis(t, 12.3, 12.8));
+    show($('d1'), vis(t, 12.6, 13.2), 30);
+    show($('d2'), vis(t, 13.2, 13.8));
+    show($('ur'), vis(t, 13.8, 14.3));
+    show($('fn'), vis(t, 14.2, 14.7));
+  }
+  window.seek = render;
+  render(0);
+</script>
+</body>
+</html>
