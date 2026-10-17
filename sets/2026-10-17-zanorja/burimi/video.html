@@ -1,0 +1,139 @@
+<!doctype html>
+<html lang="sq">
+<head>
+<meta charset="utf-8">
+<link rel="stylesheet" href="file:///home/user/Shprehu-3.5/.claude/skills/shprehu-social-ads/assets/brand.css">
+<style>
+  html, body { width: 1080px; height: 1920px; overflow: hidden; }
+  .st { position: absolute; inset: 0; }
+  h1, h2 { font-family: 'Fraunces', Georgia, serif; font-weight: 600; letter-spacing: -0.02em; }
+  em { font-style: italic; font-weight: 500; }
+  .dark { background: #2E4A43; color: #FAF7F1; }
+  .gold { color: var(--gold-soft); }
+  .gr { color: var(--green); }
+  .hook { position: absolute; left: 96px; right: 110px; top: 330px; color: #FAF7F1; }
+  .hook .time { font-weight: 700; font-size: 38px; letter-spacing: .14em; color: var(--gold-soft); margin-bottom: 52px; }
+  .hook h1 { font-size: 104px; line-height: 1.06; }
+  .hook h1 span { display: block; opacity: 0; }
+  .scene { position: absolute; inset: 0; background: var(--cream); opacity: 0; }
+  .cap { position: absolute; left: 96px; right: 110px; top: 260px; opacity: 0; }
+  .cap h2 { font-size: 92px; line-height: 1.08; }
+  .cap p { margin-top: 28px; font-size: 44px; line-height: 1.35; color: var(--ink-2); }
+  .who { position: absolute; left: 96px; top: 760px; font-weight: 700; font-size: 36px; color: var(--green-dark); opacity: 0; }
+  .vn { position: absolute; left: 96px; top: 830px; width: 860px; display: flex; align-items: center; gap: 30px; background: #fff; border: 2px solid var(--line); border-radius: 50px 50px 50px 14px; padding: 36px 44px; opacity: 0; }
+  .play { width: 96px; height: 96px; border-radius: 50%; background: var(--green); display: flex; align-items: center; justify-content: center; flex: none; }
+  .bars { display: flex; align-items: center; gap: 7px; height: 96px; flex: 1; }
+  .bars i { display: block; width: 9px; border-radius: 5px; background: var(--sage); }
+  .bars i.on { background: var(--green); }
+  .dur { font-weight: 700; font-size: 40px; color: var(--ink-2); font-variant-numeric: tabular-nums; min-width: 84px; text-align: right; }
+  .seen { position: absolute; left: 96px; top: 1010px; font-size: 34px; color: var(--muted); font-weight: 500; opacity: 0; }
+  .ghosts { position: absolute; left: 96px; right: 110px; top: 900px; }
+  .gb { position: absolute; right: 0; background: #E9F0EC; color: var(--ink-2); border-radius: 40px 40px 12px 40px; padding: 28px 40px; font-size: 44px; line-height: 1.3; opacity: 0; white-space: nowrap; position: absolute; }
+  .gb::after { content: ""; position: absolute; left: 30px; right: 30px; top: 50%; height: 4px; background: var(--muted); border-radius: 2px; }
+  .sent { position: absolute; left: 96px; top: 900px; background: var(--green); color: #fff; border-radius: 40px 40px 40px 12px; padding: 32px 44px; font-size: 52px; line-height: 1.28; max-width: 860px; opacity: 0; }
+  .comp { position: absolute; left: 70px; right: 70px; top: 1230px; height: 120px; background: #fff; border: 2px solid var(--line); border-radius: 60px; display: flex; align-items: center; padding: 0 28px 0 48px; opacity: 0; }
+  .comp .txt { flex: 1; font-size: 44px; color: var(--ink); white-space: nowrap; overflow: hidden; }
+  .comp .cur { display: inline-block; width: 3px; height: 50px; background: var(--green); vertical-align: -9px; margin-left: 2px; }
+  .snd { width: 76px; height: 76px; border-radius: 50%; background: var(--green); display: flex; align-items: center; justify-content: center; flex: none; }
+  .sim { position: absolute; left: 96px; top: 1420px; font-size: 28px; font-weight: 600; letter-spacing: .1em; text-transform: uppercase; color: var(--muted); opacity: 0; }
+  .end { position: absolute; inset: 0; background: #2E4A43; color: #FAF7F1; opacity: 0; }
+  .end h2 { position: absolute; left: 96px; right: 110px; top: 420px; font-size: 112px; line-height: 1.08; }
+  .end p { position: absolute; left: 96px; right: 110px; top: 900px; font-size: 48px; line-height: 1.38; color: rgba(250,247,241,.92); }
+  .brand { position: absolute; left: 96px; top: 1200px; display: flex; align-items: center; gap: 30px; }
+  .brand img { width: 140px; height: 140px; border-radius: 32px; }
+  .brand b { font-size: 60px; font-weight: 700; }
+  .fine { position: absolute; left: 96px; right: 70px; top: 1420px; font-size: 30px; line-height: 1.4; color: rgba(250,247,241,.78); }
+</style>
+</head>
+<body>
+<div class="st dark" id="darkbg"></div>
+<div class="st">
+  <div class="hook" id="hook">
+    <div class="time" id="htime" style="opacity:0">23:15</div>
+    <h1><span id="h1">Zanorja <em class="gold">4:12.</em></span><span id="h2">E dëgjon dy herë.</span><span id="h3">S’e përgjigjesh.</span></h1>
+  </div>
+</div>
+
+<div class="scene" id="scene">
+  <div class="cap" id="c1"><h2 class="gr">Nuk po të dërgon lajme.</h2><p>Po të flet, sepse sonte s’e ka kujt t’ia&nbsp;thotë.</p></div>
+  <div class="cap" id="c2"><h2>Përgjigjja që <em class="gr">s’dërgohet.</em></h2></div>
+  <div class="cap" id="c3"><h2>Nuk të duhet përgjigje <em class="gr">e përsosur.</em></h2><p>Mjafton një fjali që thotë se e ke dëgjuar.</p></div>
+
+  <div class="who" id="who">Shoku i shkollës</div>
+  <div class="vn" id="vn"><div class="play"><svg width="38" height="42" viewBox="0 0 34 38"><path d="M6 3l25 16L6 35z" fill="#fff"/></svg></div><div class="bars" id="bars"></div><div class="dur" id="dur">4:12</div></div>
+  <div class="seen" id="seen">Dëgjuar 2 herë · 23:19</div>
+
+  <div class="ghosts" id="ghosts">
+    <div class="gb" id="g1" style="top:0">po të marr nesër</div>
+    <div class="gb" id="g2" style="top:150px">u pa, jam mirë, ti?</div>
+  </div>
+  <div class="sent" id="sent">„E dëgjova të gjithën. Jam&nbsp;këtu.“</div>
+
+  <div class="comp" id="comp"><div class="txt"><span id="typed"></span><span class="cur" id="cur"></span></div><div class="snd"><svg width="34" height="34" viewBox="0 0 24 24"><path d="M3 20l18-8L3 4v6l11 2-11 2z" fill="#fff"/></svg></div></div>
+  <div class="sim" id="sim">Simulim</div>
+</div>
+
+<div class="end" id="end">
+  <h2>Zanorja jote ka <em class="gold">një vend</em> ku të shkojë.</h2>
+  <p id="endp">Në Shprehu mund ta thuash anonimisht, në shqip, dhe dikush të dëgjon.</p>
+  <div class="brand" id="brand"><img src="file:///home/user/Shprehu-3.5/.claude/skills/shprehu-social-ads/assets/logo-mark.png" alt=""><b>shprehu.cc</b></div>
+  <div class="fine" id="fine">Shprehu nuk është shërbim urgjence. Në rrezik, telefono 112.</div>
+</div>
+
+<script>
+  const $ = id => document.getElementById(id);
+  function rnd(i) { const x = Math.sin(i * 127.1 + 311.7) * 43758.5453; return x - Math.floor(x); }
+  const bars = $('bars'); const N = 30;
+  for (let i = 0; i < N; i++) { const e = document.createElement('i'); e.style.height = (16 + rnd(i + 40) * 64) + 'px'; bars.appendChild(e); }
+  const clamp = (x, a = 0, b = 1) => Math.min(b, Math.max(a, x));
+  const ease = x => 1 - Math.pow(1 - clamp(x), 3);
+  const seg = (t, a, b) => clamp((t - a) / (b - a));
+  const vis = (t, inA, inB, outA, outB) => ease(seg(t, inA, inB)) * (outA == null ? 1 : 1 - ease(seg(t, outA, outB)));
+  function show(el, o, dy = 0) { el.style.opacity = o; el.style.transform = `translateY(${(1 - o) * dy}px)`; }
+  function typed(str, p) { return str.slice(0, Math.round(str.length * clamp(p))); }
+
+  function render(ms) {
+    const t = ms / 1000;
+    show($('htime'), vis(t, 0.1, 0.6, 3.0, 3.4), 20);
+    show($('h1'), vis(t, 0.3, 0.9, 3.0, 3.4), 30);
+    show($('h2'), vis(t, 1.1, 1.7, 3.0, 3.4), 30);
+    show($('h3'), vis(t, 1.9, 2.5, 3.0, 3.4), 30);
+    $('scene').style.opacity = vis(t, 3.2, 3.6, 14.0, 14.4);
+    show($('c1'), vis(t, 3.7, 4.2, 7.4, 7.8), 30);
+    show($('who'), vis(t, 4.0, 4.4, 7.4, 7.8), 20);
+    show($('vn'), vis(t, 4.1, 4.6, 7.4, 7.8), 30);
+    const prog = seg(t, 4.9, 7.0) * 0.55;
+    [...bars.children].forEach((e, i) => e.className = i / N < prog ? 'on' : '');
+    const secs = Math.round(seg(t, 4.9, 7.0) * 9);
+    $('dur').textContent = t < 4.9 ? '4:12' : '0:0' + Math.min(9, secs) + ' / 4:12'.slice(0, 0) ;
+    $('dur').textContent = t < 4.9 ? '4:12' : (secs < 10 ? '0:0' + secs : '0:' + secs);
+    show($('seen'), vis(t, 7.0, 7.3, 7.4, 7.8), 10);
+
+    show($('c2'), vis(t, 7.9, 8.4, 11.5, 11.9), 30);
+    show($('ghosts'), 1);
+    const typeA = 'po të marr nesër', typeB = 'u pa, jam mirë, ti?', typeC = 'E dëgjova të gjithën. Jam këtu.';
+    let s = '';
+    if (t < 9.0) s = typed(typeA, seg(t, 8.2, 9.0));
+    else if (t < 9.9) s = typed(typeA, 1 - seg(t, 9.4, 9.9));
+    else if (t < 10.9) s = typed(typeB, seg(t, 10.0, 10.8));
+    else if (t < 11.7) s = typed(typeB, 1 - seg(t, 11.0, 11.5));
+    else s = typed(typeC, seg(t, 12.2, 13.5));
+    $('typed').textContent = s;
+    const compO = vis(t, 7.9, 8.2, 13.7, 14.0);
+    show($('comp'), compO, 20);
+    $('cur').style.opacity = Math.floor(t * 2.2) % 2 === 0 ? 1 : 0.15;
+    show($('g1'), 0 + vis(t, 9.5, 9.9, 11.5, 11.9) * (t >= 9.4 ? 0.8 : 0), 10);
+    show($('g2'), 0 + vis(t, 11.0, 11.4, 11.5, 11.9) * (t >= 11.0 ? 0.8 : 0), 10);
+    show($('c3'), vis(t, 11.9, 12.4, 13.9, 14.2), 30);
+    show($('sent'), vis(t, 13.6, 14.0, 14.0, 14.4), 40);
+    show($('sim'), vis(t, 3.8, 4.1, 13.9, 14.2));
+    $('end').style.opacity = vis(t, 14.0, 14.5);
+    $('brand').style.opacity = vis(t, 15.0, 15.5);
+    $('endp').style.opacity = vis(t, 14.6, 15.1);
+    $('fine').style.opacity = vis(t, 15.4, 15.9);
+  }
+  window.seek = render;
+  render(0);
+</script>
+</body>
+</html>
