@@ -1,0 +1,243 @@
+<!doctype html>
+<html lang="sq">
+<head>
+<meta charset="utf-8">
+<link rel="stylesheet" href="kit.css">
+<style>
+  html, body { width: 1080px; height: 1920px; overflow: hidden; margin: 0; }
+  body { background: #FAF7F1; }
+  .sc { position: absolute; inset: 0; opacity: 0; }
+  .dark { background: #243C36; color: #FAF7F1; } .cream { background: #FAF7F1; color: #221F1C; } .sand { background: #F3EFE7; color: #221F1C; } .deep { background: #2E4A43; color: #FAF7F1; }
+  .serif { font-family: 'Fraunces', Georgia, serif; font-weight: 600; letter-spacing: -0.025em; }
+  em { font-style: italic; font-weight: 500; }
+  .dark em, .deep em { color: #E8B96C; } .cream em, .sand em { color: #3F6259; }
+  .x { position: absolute; left: 96px; right: 150px; opacity: 0; }
+  .tg { font-size: 32px; font-weight: 600; letter-spacing: .1em; text-transform: uppercase; }
+  .dark .tg, .deep .tg { color: #8FB8A8; } .cream .tg, .sand .tg { color: #3F6259; }
+  .prog { position: absolute; left: 96px; right: 150px; top: 190px; height: 6px; border-radius: 3px; background: rgba(127,127,127,.22); z-index: 50; overflow: hidden; }
+  .prog i { display: block; height: 100%; width: 0; background: #D6A24C; }
+  .lines .l { font-family: 'Fraunces', Georgia, serif; font-weight: 600; font-size: 92px; line-height: 1.08; letter-spacing: -0.02em; opacity: 0; margin-bottom: 34px; }
+  .chip, .btn, .ask, .pill, .sys, .intent { border-radius: 18px; }
+  .phone { transform: translateY(1400px); }
+  .vw { position: absolute; top: 186px; left: 0; right: 0; bottom: 0; padding: 30px 38px; opacity: 0; }
+  .tiles { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; margin-top: 18px; }
+  .tl { background: #fff; border: 2px solid var(--line); border-radius: 24px; padding: 20px 22px; height: 168px; opacity: 0; }
+  .tl b { display: block; font-family: 'Fraunces', serif; font-size: 32px; color: var(--ink); margin-top: 22px; }
+  .tl small { display: block; font-size: 21px; color: #6B6152; }
+  .tl .ic { width: 44px; height: 44px; border-radius: 14px; background: #EAF1EE; }
+  .rowc { display: flex; align-items: center; gap: 18px; background: #fff; border: 2px solid var(--line); border-radius: 22px; padding: 20px 24px; margin-top: 14px; opacity: 0; }
+  .rowc b { display: block; font-size: 27px; color: var(--ink); }
+  .rowc small { display: block; font-size: 21px; color: #6B6152; }
+  .rowc .ic { width: 50px; height: 50px; border-radius: 16px; background: #EAF1EE; flex: none; }
+  .vals { display: grid; gap: 40px; }
+  .vals .v { opacity: 0; }
+  .vals b { display: block; font-family: 'Fraunces', serif; font-weight: 600; font-size: 96px; line-height: 1; letter-spacing: -0.02em; }
+  .vals span { display: block; font-size: 40px; line-height: 1.3; color: rgba(250,247,241,.82); margin-top: 10px; }
+  .vals .v:nth-child(2n) b { color: #E8B96C; }
+  .stat { opacity: 0; }
+  .stat b { display: block; font-family: 'Fraunces', serif; font-weight: 600; font-size: 230px; line-height: .95; letter-spacing: -0.04em; color: #3F6259; }
+  .stat span { display: block; font-family: 'Fraunces', serif; font-weight: 500; font-size: 64px; line-height: 1.1; margin-top: 10px; }
+  .logo2 { display: flex; align-items: center; gap: 24px; }
+  .logo2 img { width: 104px; height: 104px; border-radius: 26px; }
+  .logo2 b { font-family: 'Sacramento', cursive; font-weight: 400; font-size: 96px; line-height: 1; }
+</style>
+</head>
+<body>
+<div class="prog" id="prog"><i id="progi"></i></div>
+
+<div class="sc dark" id="s1">
+  <div class="x tg" id="s1t" style="top:300px">Një minutë</div>
+  <div class="x serif" id="s1a" style="top:380px; font-size:118px; line-height:1.03">Sa herë ke thënë <em>„jam mirë“</em>, kur s’ishe?</div>
+  <div class="x" id="s1b" style="top:1060px; font-size:52px; line-height:1.3; color:rgba(250,247,241,.9)">Në një minutë: ku nuk ke pse ta thuash.</div>
+</div>
+
+<div class="sc cream" id="s2">
+  <div class="x tg" id="s2t" style="top:300px">Pse ekziston</div>
+  <div class="x lines" id="s2l" style="top:390px">
+    <div class="l">Diçka që <em>të rëndon.</em></div>
+    <div class="l">Askush për <em>t’ia thënë.</em></div>
+    <div class="l">Frika se do <em>të gjykohesh.</em></div>
+  </div>
+  <div class="x" id="s2b" style="top:1170px"><div class="logo2"><img src="file:///home/user/Shprehu-3.5/.claude/skills/shprehu-social-ads/assets/logo-mark.png" alt=""><b style="color:#221F1C">Shprehu</b></div>
+    <div style="font-size:48px; line-height:1.3; color:#4A443C; margin-top:22px">ekziston për pikërisht këtë.</div></div>
+</div>
+
+<div class="sc cream" id="sp">
+  <div class="glow g1"></div><div class="glow g2"></div>
+  <div class="cap" id="c3" style="opacity:0"><h2>Flet me dikë, <em>pa emrin tënd.</em></h2><p>Falas, në shqip. Biseda nis kur pranojnë të dy.</p></div>
+  <div class="cap" id="c4" style="opacity:0"><h2>Dikush <em>të dëgjon.</em></h2><p>Pa leksione. Biseda zhduket kur e mbyll.</p></div>
+  <div class="cap" id="c5" style="opacity:0"><h2>Kur s’ke qejf <em>të flasësh.</em></h2><p>Ditari, plani i sigurisë, ushtrime. I sheh vetëm ti.</p></div>
+  <div class="demo-tag" id="dtag" style="opacity:0">Simulim i aplikacionit</div>
+
+  <div class="phone" id="ph"><div class="screen">
+    <div class="island"></div>
+    <div class="status"><span>21:40</span>
+      <span class="icons"><span class="bar" style="height:12px"></span><span class="bar" style="height:17px"></span><span class="bar" style="height:22px"></span>
+      <svg width="40" height="22" viewBox="0 0 40 22"><rect x="1" y="1" width="33" height="20" rx="5" fill="none" stroke="#221F1C" stroke-width="2"/><rect x="4" y="4" width="24" height="14" rx="3" fill="#221F1C"/><rect x="36" y="7" width="3" height="8" rx="1.5" fill="#221F1C"/></svg></span>
+    </div>
+    <div class="appbar"><img src="file:///home/user/Shprehu-3.5/.claude/skills/shprehu-social-ads/assets/logo-mark.png" alt=""><span class="t" id="abt">Biseda</span>
+      <span class="lock"><svg width="20" height="22" viewBox="0 0 20 22"><rect x="2" y="9" width="16" height="12" rx="3" fill="#8A8073"/><path d="M5 9V6a5 5 0 0 1 10 0v3" stroke="#8A8073" stroke-width="2.4" fill="none"/></svg> Anonime</span></div>
+
+    <div class="vw" id="v1">
+      <div style="text-align:center"><div class="ui-title">Salla e bisedave</div>
+        <div class="ui-sub" style="margin:10px auto 0;max-width:600px">Biseda nis vetëm kur <b>të dy</b> pranojnë.</div></div>
+      <div class="ui-label" style="margin-top:34px">Si ndihesh? <span>(opsionale)</span></div>
+      <div class="chips" style="margin-top:16px">
+        <span class="chip" id="chp"><i class="d" id="chd" style="background:#1F7A55"></i>Thjesht dua të flas<span class="tap" id="tp1"></span></span>
+        <span class="chip"><i class="d" style="background:#B04A2C"></i>Mbingarkesë</span>
+        <span class="chip"><i class="d" style="background:#3C7CB8"></i>Trishtim</span>
+        <span class="chip"><i class="d" style="background:#5B6E8C"></i>Vetmi</span>
+      </div>
+      <div class="ui-label" style="margin-top:32px">Çfarë kërkon tani?</div>
+      <div style="display:flex;gap:16px;margin-top:16px">
+        <div class="intent" id="int"><b>Dua të flas</b><small>Kam diçka në zemër</small><span class="tap" id="tp2"></span></div>
+        <div class="intent"><b>Dua të dëgjoj</b><small>Jam këtu për dikë tjetër</small></div>
+      </div>
+      <div class="btn" id="go" style="margin-top:30px">Gjej dikë tani<span class="tap" id="tp3"></span></div>
+      <div class="note" style="margin-top:18px">Të tjerët shohin vetëm këtë, kurrë emrin tënd.</div>
+    </div>
+
+    <div class="vw" id="v2">
+      <div class="ui-label" style="margin:6px 0 16px">Gati për të folur</div>
+      <div class="card"><div class="avatar" style="background:#3F62591A;border-color:#3F625940"><i style="background:#3F6259"></i></div>
+        <div class="who"><b>Thjesht dua të flas</b><span class="pill">Dua të dëgjoj</span></div>
+        <div class="ask" id="ask">Fol<span class="tap" id="tp4"></span></div></div>
+      <div class="outgoing" id="out" style="margin-top:26px;opacity:0">
+        <div style="flex:1"><b style="font-size:27px;color:#1F7A55" id="acc">Kërkesa u pranua</b><div class="ui-sub" style="font-size:22px">Po hapet biseda…</div></div>
+      </div>
+    </div>
+
+    <div class="vw" id="v3">
+      <div class="chat-head"><span class="dot"></span><div><b>Bisedë anonime</b><small>Asnjëri s’e sheh emrin e tjetrit</small></div></div>
+      <div class="msgs">
+        <div class="sys" id="m0" style="opacity:0">U lidhët. Mund ta mbyllësh kur të duash.</div>
+        <div class="bub own" id="m1" style="opacity:0">S’kam folur me askënd për këtë. Nuk di nga t’ia nis.<span class="ts">21:41</span></div>
+        <div style="position:relative;min-height:230px">
+          <div class="typing" id="m2" style="position:absolute;left:0;top:0;opacity:0"><i></i><i></i><i></i><span class="typing-label">po shkruan…</span></div>
+          <div class="bub other" id="m3" style="position:absolute;left:0;top:0;opacity:0">S’ka nxitim. Nis nga ajo që të rëndon më shumë. Jam këtu.<span class="ts">21:41</span></div>
+        </div>
+        <div class="bub own" id="m4" style="opacity:0">Faleminderit që më dëgjove.<span class="ts">21:52</span></div>
+      </div>
+    </div>
+
+    <div class="vw" id="v4">
+      <div class="ui-title" style="font-size:40px">Mjete</div>
+      <div class="tiles">
+        <div class="tl"><div class="ic"></div><b>Fjalori</b><small>Fjalë për ndjenjat</small></div>
+        <div class="tl"><div class="ic"></div><b>Ushtrime</b><small>Module të shkurtra</small></div>
+        <div class="tl"><div class="ic"></div><b>Artikuj</b><small>Lexime të shkurtra</small></div>
+        <div class="tl"><div class="ic"></div><b>Forumi</b><small>Pyet, anonim</small></div>
+      </div>
+      <div class="rowc"><span class="ic"></span><div><b>Ditari</b><small>I enkriptuar, e sheh vetëm ti</small></div></div>
+      <div class="rowc"><span class="ic"></span><div><b>Plani im i sigurisë</b><small>Çfarë bëj kur më rëndohet</small></div></div>
+      <div class="rowc"><span class="ic"></span><div><b>Ndihmë e menjëhershme</b><small>Numrat falas, 24/7</small></div></div>
+    </div>
+  </div></div>
+</div>
+
+<div class="sc dark" id="s6">
+  <div class="x tg" id="s6t" style="top:300px">Si e mbajmë</div>
+  <div class="x vals" id="s6v" style="top:400px">
+    <div class="v"><b>Anonim.</b><span>Askush s’e sheh emrin tënd, as email-in.</span></div>
+    <div class="v"><b>Pa gjykim.</b><span>Këtu dëgjohet, nuk jepen leksione.</span></div>
+    <div class="v"><b>Pak të dhëna.</b><span>Ruajmë sa më pak dhe e themi hapur.</span></div>
+    <div class="v"><b>Për këdo.</b><span>S’ka rëndësi nga vjen.</span></div>
+  </div>
+</div>
+
+<div class="sc sand" id="s7">
+  <div class="x tg" id="s7t" style="top:300px">Deri tani</div>
+  <div class="x stat" id="s7a" style="top:380px"><b><span id="n1" style="font:inherit;color:inherit;display:inline">0</span>+</b><span>njerëz na kanë <em>besuar.</em></span></div>
+  <div class="x stat" id="s7b" style="top:860px"><b style="font-size:200px"><span id="n2" style="font:inherit;color:inherit;display:inline">0</span>+</b><span>e kanë vlerësuar si <em>ndihmuese.</em></span></div>
+  <div class="x" id="s7c" style="top:1340px; font-size:28px; line-height:1.4; color:#6B6152">Llogari të regjistruara dhe vlerësime nga përdoruesit, tetor 2026.</div>
+</div>
+
+<div class="sc deep" id="s8">
+  <div class="x tg" id="s8t" style="top:300px">Qëllimi ynë</div>
+  <div class="x serif" id="s8a" style="top:380px; font-size:104px; line-height:1.04">Ku duam të <em>arrijmë?</em></div>
+  <div class="x" id="s8b" style="top:660px; font-size:54px; line-height:1.3; color:rgba(250,247,241,.92)">Që çdo shqipfolës, në Shqipëri, në Kosovë apo kudo, ta gjejë këtë vend kur ka nevojë të flasë. Falas dhe në gjuhën e vet.</div>
+  <div class="x" id="s8c" style="top:1140px; font-size:44px; line-height:1.3"><span style="font-size:28px;font-weight:700;letter-spacing:.08em;color:#E8B96C">PO VJEN</span><br>Aplikacioni për iPhone dhe Android</div>
+</div>
+
+<div class="sc deep" id="s9">
+  <div class="x" id="s9l" style="top:420px"><div class="logo2"><img src="file:///home/user/Shprehu-3.5/.claude/skills/shprehu-social-ads/assets/logo-mark.png" alt=""><b>Shprehu</b></div></div>
+  <div class="x serif" id="s9a" style="top:640px; font-size:110px; line-height:1.04">Dikush <em>të dëgjon.</em></div>
+  <div class="x" id="s9b" style="top:920px; font-size:42px; color:#8FB8A8; font-weight:500">Anonim · Falas · Në shqip</div>
+  <div class="x" id="s9c" style="top:1040px; font-size:64px; font-weight:700">shprehu.cc</div>
+  <div class="x" id="s9d" style="top:1200px; font-size:32px; line-height:1.45; color:rgba(250,247,241,.78)">Shprehu nuk është terapi dhe nuk është shërbim urgjence. Në rrezik, telefono 112.</div>
+</div>
+
+<script>
+  const S = __S__, D = __D__, END = __END__;
+  const $ = id => document.getElementById(id);
+  const clamp = (x, a = 0, b = 1) => Math.min(b, Math.max(a, x));
+  const ease = x => 1 - Math.pow(1 - clamp(x), 3);
+  const seg = (t, a, b) => clamp((t - a) / (b - a));
+  const vis = (t, a, b, c, d) => ease(seg(t, a, b)) * (c == null ? 1 : 1 - ease(seg(t, c, d)));
+  function show(el, o, dy = 24) { el.style.opacity = o; el.style.transform = `translateY(${(1 - o) * dy}px)`; }
+  const st = i => S[i], en = i => S[i] + D[i];
+  function scene(id, i, j) { const a = st(i) - 0.25, b = (j == null ? en(i) : en(j)); $(id).style.opacity = vis(T, a, a + 0.3, b + 0.05, b + 0.3); }
+  function tap(id, at) { const p = seg(T, at, at + 0.6); const el = $(id); if (p <= 0 || p >= 1) { el.style.opacity = 0; return; }
+    el.style.opacity = p < .25 ? p / .25 * .9 : .9 * (1 - (p - .25) / .75); el.style.transform = `translate(-50%,-50%) scale(${p < .25 ? .4 + 2.4 * p : 1 + (p - .25) * 1.2})`; }
+  let T = 0;
+  function render(ms) {
+    T = ms / 1000; const t = T;
+    $('progi').style.width = (clamp(t / END) * 100) + '%';
+    scene('s1', 0);
+    show($('s1t'), vis(t, .1, .4), 12); show($('s1a'), vis(t, .2, .8), 30); show($('s1b'), vis(t, st(0) + 3.4, st(0) + 3.9));
+    scene('s2', 1);
+    show($('s2t'), vis(t, st(1), st(1) + .4), 12);
+    $('s2l').style.opacity = 1; $('s6v').style.opacity = 1;
+    [...$('s2l').children].forEach((el, k) => show(el, vis(t, st(1) + .2 + k * 1.1, st(1) + .7 + k * 1.1), 28));
+    show($('s2b'), vis(t, st(1) + D[1] * .62, st(1) + D[1] * .62 + .5));
+
+    scene('sp', 2, 4);
+    const a2 = st(2), a3 = st(3), a4 = st(4);
+    const up = ease(seg(t, a2 - .1, a2 + .7)), down = ease(seg(t, en(4) - .2, en(4) + .5));
+    $('ph').style.transform = `translateY(${(1 - up) * 1400 + down * 1300}px)`;
+    show($('dtag'), vis(t, a2 + .5, a2 + .9, en(4) - .3, en(4)), 0);
+    show($('c3'), vis(t, a2, a2 + .5, a3 - .3, a3), 20);
+    show($('c4'), vis(t, a3, a3 + .5, a4 - .3, a4), 20);
+    show($('c5'), vis(t, a4, a4 + .5, en(4) - .3, en(4)), 20);
+    $('abt').textContent = t < a4 ? 'Biseda' : 'Mjete';
+    const sel1 = seg(t, a2 + 1.6, a2 + 1.85), sel2 = seg(t, a2 + 2.6, a2 + 2.85);
+    $('chp').style.background = sel1 >= 1 ? '#3F6259' : '#fff'; $('chp').style.color = sel1 >= 1 ? '#fff' : ''; $('chp').style.borderColor = sel1 >= 1 ? '#3F6259' : '';
+    $('chd').style.background = sel1 >= 1 ? '#fff' : '#1F7A55';
+    $('int').style.borderColor = sel2 >= 1 ? '#3F6259' : ''; $('int').style.background = sel2 >= 1 ? '#EAF1EE' : '#fff';
+    tap('tp1', a2 + 1.45); tap('tp2', a2 + 2.45); tap('tp3', a2 + 3.5);
+    const v2a = a2 + 4.1;
+    $('v1').style.opacity = 1 - seg(t, v2a - .2, v2a);
+    $('v2').style.opacity = vis(t, v2a, v2a + .3, a3 - .2, a3);
+    tap('tp4', v2a + 1.0);
+    show($('out'), vis(t, v2a + 1.6, v2a + 2.0), 14);
+    $('v3').style.opacity = vis(t, a3, a3 + .3, a4 - .2, a4);
+    show($('m0'), vis(t, a3 + .3, a3 + .7), 10);
+    show($('m1'), vis(t, a3 + 1.0, a3 + 1.4), 14);
+    $('m2').style.opacity = vis(t, a3 + 2.0, a3 + 2.3, a3 + 3.6, a3 + 3.8);
+    show($('m3'), vis(t, a3 + 3.7, a3 + 4.1), 14);
+    show($('m4'), vis(t, a3 + 5.6, a3 + 6.0), 14);
+    $('v4').style.opacity = vis(t, a4, a4 + .3);
+    [...document.querySelectorAll('#v4 .tl, #v4 .rowc')].forEach((el, k) => show(el, vis(t, a4 + .4 + k * .45, a4 + .8 + k * .45), 16));
+
+    scene('s6', 5);
+    show($('s6t'), vis(t, st(5), st(5) + .4), 12);
+    [...$('s6v').children].forEach((el, k) => show(el, vis(t, st(5) + .1 + k * .85, st(5) + .5 + k * .85), 24));
+    scene('s7', 6);
+    show($('s7t'), vis(t, st(6), st(6) + .4), 12);
+    show($('s7a'), vis(t, st(6) + .1, st(6) + .6), 30);
+    $('n1').textContent = Math.round(450 * ease(seg(t, st(6) + .2, st(6) + 2.4)));
+    show($('s7b'), vis(t, st(6) + 3.6, st(6) + 4.1), 30);
+    $('n2').textContent = Math.round(50 * ease(seg(t, st(6) + 3.7, st(6) + 5.2)));
+    show($('s7c'), vis(t, st(6) + 5.0, st(6) + 5.5), 0);
+    scene('s8', 7);
+    show($('s8t'), vis(t, st(7), st(7) + .4), 12); show($('s8a'), vis(t, st(7) + .1, st(7) + .7), 30);
+    show($('s8b'), vis(t, st(7) + 1.0, st(7) + 1.6)); show($('s8c'), vis(t, st(7) + D[7] * .72, st(7) + D[7] * .72 + .5));
+    $('s9').style.opacity = vis(t, st(8) - .25, st(8) + .05);
+    show($('s9l'), vis(t, st(8), st(8) + .5)); show($('s9a'), vis(t, st(8) + .2, st(8) + .8), 30);
+    show($('s9d'), vis(t, st(8) + .6, st(8) + 1.1)); show($('s9b'), vis(t, st(8) + 3.4, st(8) + 3.9)); show($('s9c'), vis(t, st(8) + 5.6, st(8) + 6.1));
+  }
+  window.seek = render;
+  render(0);
+</script>
+</body>
+</html>
