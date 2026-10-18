@@ -1,0 +1,61 @@
+<!doctype html><html lang="sq"><head><meta charset="utf-8"><link rel="stylesheet" href="file:///home/user/Shprehu-3.5/.claude/skills/shprehu-social-ads/assets/brand.css"><style>
+html,body{width:1080px;height:1920px;overflow:hidden}
+.sc{position:absolute;inset:0;opacity:0}
+.serif{font-family:'Fraunces',Georgia,serif;font-weight:600;letter-spacing:-0.025em}
+em{font-style:italic;font-weight:500}
+.t{position:absolute;left:96px;right:150px;opacity:0}
+.tag{position:absolute;left:96px;right:150px;font-size:34px;font-weight:700;letter-spacing:.14em;text-transform:uppercase;opacity:0}
+.dk{background:#243C36;color:#FAF7F1}.dk em{color:#E8B96C}.dk .tag{color:#8FB8A8}
+.gr{background:#2E4A43;color:#FAF7F1}.gr em{color:#E8B96C}.gr .tag{color:#8FB8A8}
+.cr{background:#FAF7F1;color:#221F1C}.cr em{color:#3F6259}.cr .tag{color:#3F6259}
+.sd{background:#F3EFE7;color:#221F1C}.sd em{color:#3F6259}.sd .tag{color:#3F6259}
+.sub{font-size:52px;line-height:1.3}
+.logo{position:absolute;left:96px;top:470px;display:flex;align-items:center;gap:26px;opacity:0}
+.logo img{width:110px;height:110px;border-radius:26px}
+.logo b{font-family:'Sacramento',cursive;font-weight:400;font-size:98px;line-height:1}
+.url{position:absolute;left:96px;font-size:58px;font-weight:700;opacity:0}
+.fine{position:absolute;left:96px;right:150px;font-size:32px;line-height:1.4;color:rgba(250,247,241,.8);opacity:0}
+.abs{position:absolute}
+.led{position:absolute;left:96px;width:834px;top:620px;height:380px;background:#0F1A17;border:6px solid #3F6259;border-radius:22px;box-shadow:0 20px 60px rgba(0,0,0,.4)}
+.led .l{position:absolute;left:0;right:0;top:26px;text-align:center;font-size:34px;font-weight:700;letter-spacing:.2em;color:#8FB8A8}
+.led .n{position:absolute;left:0;right:0;top:80px;text-align:center;font-size:230px;font-weight:800;color:#E8B96C;font-variant-numeric:tabular-nums;line-height:1;text-shadow:0 0 40px rgba(232,185,108,.5)}
+.tk{position:absolute;left:150px;width:730px;top:1120px;background:#FAF7F1;color:#221F1C;border-radius:8px;padding:30px 40px;box-shadow:0 20px 50px rgba(0,0,0,.35);transform:rotate(-1.5deg)}
+.tk b{font-size:30px;letter-spacing:.14em;color:#8A8073}
+.tk div{font-size:150px;font-weight:800;line-height:1.05}
+</style></head><body>
+<div class="sc dk" data-in="0" data-out="6.4">
+ <div class="tag" data-in="0.2" style="top:300px">Në zyrë · 14:10</div>
+ <div class="t serif" data-in="0.45" style="top:370px;font-size:84px;line-height:1.08">Pret të thërrasin <em>numrin tënd.</em></div>
+ <div class="led" data-in="1.0"><div class="l">TANI</div><div class="n" id="num">38</div></div>
+ <div class="tk" data-in="1.5"><b>NUMRI YT</b><div>47</div></div>
+</div>
+<div class="sc cr" data-in="6.2" data-out="10.2">
+ <div class="t serif" data-in="6.5" style="top:700px;font-size:150px;line-height:1.02">„Eja <em>nesër.</em>“</div>
+ <div class="t sub" data-in="8.0" style="top:1060px;color:#4A443C">Dhe ti e di që nesër do të jetë e njëjta radhë.</div>
+</div>
+<div class="sc gr" data-in="10.0" data-out="13.4">
+ <div class="t serif" data-in="10.3" style="top:700px;font-size:100px;line-height:1.08">Nuk lodh vetëm pritja. <em>Lodh ndjenja</em> që askush s’të dëgjon.</div>
+ <div class="t sub" data-in="11.8" style="top:1420px;color:#E8B96C;font-weight:600">Dhe ajo mund të thuhet.</div>
+</div>
+<div class="sc gr" data-in="13.2" data-out="17.2"><div class="logo" data-in="13.5"><img src="file:///home/user/Shprehu-3.5/.claude/skills/shprehu-social-ads/assets/logo-mark.png" alt=""><b>Shprehu</b></div>
+<div class="t serif" data-in="13.799999999999999" style="top:690px;font-size:104px;line-height:1.06">Thuaje diku, <em>pa emër.</em></div>
+<div class="t sub" data-in="14.399999999999999" style="top:1050px;color:rgba(250,247,241,.92);font-size:52px">Anonim, falas dhe në shqip. Dikush të dëgjon.</div>
+<div class="url" data-in="15.0" style="top:1280px">shprehu.cc</div>
+<div class="fine" data-in="15.399999999999999" style="top:1400px">Shprehu nuk është shërbim urgjence. Në rrezik, telefono 112.</div></div><script>window.extra=function(t){var n=38+Math.floor(clamp((t-1.6)/3.6)*8);document.getElementById('num').textContent=n;};
+const clamp=(x,a=0,b=1)=>Math.min(b,Math.max(a,x));
+const ease=x=>1-Math.pow(1-clamp(x),3);
+const seg=(t,a,b)=>clamp((t-a)/(b-a));
+function vis(t,a,d,b){ return ease(seg(t,a,a+d))*(b==null?1:1-ease(seg(t,b-0.3,b))); }
+const els=[...document.querySelectorAll('[data-in]')];
+function render(ms){
+  const t=ms/1000;
+  els.forEach(el=>{
+    const a=parseFloat(el.dataset.in), b=el.dataset.out?parseFloat(el.dataset.out):null;
+    const o=vis(t,a,el.classList.contains('sc')?0.3:0.55,b);
+    el.style.opacity=o;
+    if(!el.classList.contains('sc')){ const dy=parseFloat(el.dataset.dy||24); el.style.transform='translateY('+((1-o)*dy)+'px)'; }
+  });
+  if(window.extra) window.extra(t);
+}
+window.seek=render; render(0);
+</script></body></html>
