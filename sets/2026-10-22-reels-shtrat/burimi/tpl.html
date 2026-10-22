@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="sq"><head><meta charset="utf-8">
+<link rel="stylesheet" href="file://__SK__/assets/brand.css">
+<style>
+html,body{width:1080px;height:1920px;overflow:hidden;margin:0}
+body{background:#16212A;color:#FAF7F1;position:relative}
+.warm{position:absolute;inset:0;background:radial-gradient(120% 70% at 88% 10%,rgba(246,214,150,.6),rgba(246,214,150,0) 62%),linear-gradient(180deg,#2B3F4A 0%,#4A5B5C 52%,#7A6A58 100%);opacity:0;animation:warm 19s ease-in-out both}
+@keyframes warm{0%{opacity:0}100%{opacity:1}}
+.beam{position:absolute;left:300px;top:-60px;width:820px;height:1560px;background:linear-gradient(180deg,rgba(255,232,180,.5),rgba(255,232,180,0));clip-path:polygon(46% 0,100% 0,62% 100%,-30% 100%);filter:blur(22px);transform-origin:100% 0;opacity:0;animation:beam 19s ease-in-out both}
+@keyframes beam{0%{opacity:0;transform:rotate(4deg)}30%{opacity:.75}100%{opacity:.95;transform:rotate(-5deg)}}
+.win{position:absolute;right:-70px;top:90px;width:440px;height:560px;border:16px solid #D8CBB0;background:linear-gradient(180deg,#8FB1C6,#F6DDA7);box-shadow:0 0 120px 40px rgba(255,226,160,.35);opacity:0;animation:fade 3s ease-out .2s both}
+.win::before{content:'';position:absolute;left:50%;top:0;bottom:0;width:14px;margin-left:-7px;background:#D8CBB0}
+.win::after{content:'';position:absolute;top:50%;left:0;right:0;height:14px;margin-top:-7px;background:#D8CBB0}
+@keyframes fade{from{opacity:0}to{opacity:1}}
+.dust{position:absolute;border-radius:50%;background:rgba(255,240,200,.75);filter:blur(1px);animation:float linear infinite;opacity:0}
+@keyframes float{0%{transform:translate(0,0);opacity:0}20%{opacity:.8}80%{opacity:.6}100%{transform:translate(-80px,-260px);opacity:0}}
+.floor{position:absolute;left:0;right:0;bottom:0;height:140px;background:linear-gradient(180deg,#4A3322,#2A1C12)}
+.mat{position:absolute;left:-60px;bottom:120px;width:1120px;height:250px;border-radius:70px 70px 0 0;background:linear-gradient(180deg,#EFE6D2,#D9CDB0)}
+.blank{position:absolute;left:-60px;bottom:120px;width:700px;height:200px;border-radius:70px 90px 0 0;background:linear-gradient(180deg,#4B7266,#2F5249);transform-origin:left bottom;animation:blanket 19s ease-in-out both}
+@keyframes blanket{0%{transform:rotate(0)}100%{transform:rotate(-.6deg)}}
+.slip{position:absolute;bottom:60px;width:130px;height:56px;border-radius:50% 50% 30% 30%/70% 70% 30% 30%;background:#B9825A;box-shadow:0 8px 14px rgba(0,0,0,.35)}
+.safe{position:absolute;top:250px;bottom:420px;left:96px;right:150px}
+.scene{position:absolute;inset:0;display:flex;flex-direction:column;justify-content:center;opacity:0;text-shadow:0 2px 24px rgba(10,18,22,.55)}
+.lab{font-weight:800;font-size:34px;letter-spacing:.18em;text-transform:uppercase;color:#8FB8A8;margin-bottom:34px}
+.h{font-family:'Fraunces',serif;font-weight:600;font-size:96px;line-height:1.07;letter-spacing:-.02em}
+.h em{font-style:italic;font-weight:500;color:#E8B96C}
+.sub{margin-top:36px;font-size:46px;line-height:1.35;color:rgba(250,247,241,.9)}
+@keyframes inout{0%{opacity:0;transform:translateY(36px)}12%,86%{opacity:1;transform:none}100%{opacity:0;transform:translateY(-26px)}}
+@keyframes inhold{0%{opacity:0;transform:translateY(36px)}28%,100%{opacity:1;transform:none}}
+@keyframes late{0%,40%{opacity:0;transform:translateY(24px)}100%{opacity:1;transform:none}}
+.s1{animation:inout 4.3s ease-out .4s both}
+.s1 .l2{display:inline-block;animation:late 4.3s ease-out .4s both}
+.s2{animation:inout 4.6s ease-out 4.9s both}
+.s3{animation:inout 4.5s ease-out 9.7s both}
+.s4{animation:inhold 4.4s ease-out 14.4s both;align-items:flex-start}
+.brand{display:flex;align-items:center;gap:26px;font-weight:700;font-size:54px}
+.brand img{width:120px;height:120px;border-radius:30px;box-shadow:0 10px 40px rgba(0,0,0,.3)}
+.fine{margin-top:34px;font-size:30px;line-height:1.4;color:rgba(250,247,241,.78)}
+</style></head><body>
+<div class="warm"></div><div class="beam"></div><div class="win"></div>__DUST__
+<div class="mat"></div><div class="blank"></div><div class="floor"></div><div class="slip" style="left:600px"></div><div class="slip" style="left:760px;transform:rotate(-8deg)"></div>
+<div class="safe">
+ <div class="scene s1"><div class="lab">Ora 07:10</div><div class="h">Ulesh në buzë të shtratit.<br><span class="l2"><em>Dhe s’ngrihesh.</em></span></div></div>
+ <div class="scene s2"><div class="h">Nuk je i përtuar.</div><div class="sub">Po mbledh forcë për një ditë që e njeh përpara.</div></div>
+ <div class="scene s3"><div class="h">Shumë e bëjnë këtë. <em>Pak e thonë.</em></div></div>
+ <div class="scene s4"><div class="h" style="font-size:80px">Kur sot është e rëndë, <em>thuaje pa emër.</em></div>
+  <div class="brand" style="margin-top:56px"><img src="file://__SK__/assets/logo-mark.png" alt="">shprehu.cc</div>
+  <div class="fine">Anonim, falas, në shqip.<br>Shprehu nuk është shërbim urgjence. Në rrezik, telefono 112.</div></div>
+</div></body></html>
