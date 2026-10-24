@@ -7,6 +7,7 @@
 | Kevin-MacLeod-Gymnopedie-No-1.mp3 | Gymnopedie No 1 | Erik Satie (domen publik), regjistrimi Kevin MacLeod | https://incompetech.com/music/royalty-free/mp3-royaltyfree/Gymnopedie%20No%201.mp3 | CC BY 4.0 | 17.10.2026 | „Muzika: Gymnopedie No 1 nga Kevin MacLeod (incompetech.com), licenca CC BY 4.0“ |
 | Chopin-Valsi-19-la-minor-Aya-Higuchi-CC0.mp3 | Valsi nr. 19 në la minor, Op. posth. | Frédéric Chopin (domen publik), pianiste Aya Higuchi | https://archive.org/details/parso-08e57b88c8badbff300ef033655023e035bbfe2a | **CC0 1.0** (publicdomain/zero/1.0), faqja e Internet Archive e thotë shprehimisht | 22.10.2026 | Asnjë (CC0 nuk kërkon përmendje) |
 | Chopin-Nocturne-op55-nr1-fa-minor-CC0.mp3 | Nocturne në fa minor, op. 55 nr. 1 | Frédéric Chopin (domen publik), interpretuesi pa emër në faqe | https://archive.org/details/parso-2baabd827af86a852bb54f058dbceba9edc4ec00 | **CC0 1.0** (publicdomain/zero/1.0), faqja e Internet Archive e thotë shprehimisht | 23.10.2026 | Asnjë (CC0 nuk kërkon përmendje) |
+| Chopin-Nocturne-op37-nr2-sol-maxhor-Olga-Gurevich-CC0.mp3 | Nocturne në sol maxhor, op. 37 nr. 2 | Frédéric Chopin (domen publik), pianiste Olga Gurevich | https://archive.org/details/parso-1c53a71e4ef6f47591ab605d801bc3780b27824a | **CC0 1.0** (publicdomain/zero/1.0), faqja e Internet Archive e thotë shprehimisht | 24.10.2026 | Asnjë (CC0 nuk kërkon përmendje) |
 
 Shënim: incompetech.com shkarkohet nga serveri (provuar 17.10.2026); Pixabay e bllokon serverin.
 
