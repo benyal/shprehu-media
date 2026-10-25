@@ -9,6 +9,7 @@
 | Chopin-Nocturne-op55-nr1-fa-minor-CC0.mp3 | Nocturne në fa minor, op. 55 nr. 1 | Frédéric Chopin (domen publik), interpretuesi pa emër në faqe | https://archive.org/details/parso-2baabd827af86a852bb54f058dbceba9edc4ec00 | **CC0 1.0** (publicdomain/zero/1.0), faqja e Internet Archive e thotë shprehimisht | 23.10.2026 | Asnjë (CC0 nuk kërkon përmendje) |
 | Chopin-Nocturne-op37-nr2-sol-maxhor-Olga-Gurevich-CC0.mp3 | Nocturne në sol maxhor, op. 37 nr. 2 | Frédéric Chopin (domen publik), pianiste Olga Gurevich | https://archive.org/details/parso-1c53a71e4ef6f47591ab605d801bc3780b27824a | **CC0 1.0** (publicdomain/zero/1.0), faqja e Internet Archive e thotë shprehimisht | 24.10.2026 | Asnjë (CC0 nuk kërkon përmendje) |
 | Chopin-Nocturne-B108-do-minor-Musopen-CC0.mp3 | Nocturne në do minor, B. 108 | Frédéric Chopin (domen publik), regjistrim Musopen | https://archive.org/details/parso-0376f076666a403745bbb1c79277856a9f5ef9d4 | **CC0 1.0** (publicdomain/zero/1.0), faqja e Internet Archive e thotë shprehimisht | 24.10.2026 | Asnjë (CC0 nuk kërkon përmendje) |
+| Chopin-Mazurka-op24-nr4-si-bemol-minor-CC0.mp3 | Mazurka në si bemol minor, op. 24 nr. 4 | Frédéric Chopin (domen publik), interpretuesi pa emër në faqe | https://archive.org/details/parso-2b3e12fd0031ff5cb24a0b5ba585d31726a46e88 | **CC0 1.0** (publicdomain/zero/1.0), faqja e Internet Archive e thotë shprehimisht | 25.10.2026 | Asnjë (CC0 nuk kërkon përmendje) |
 
 Shënim: incompetech.com shkarkohet nga serveri (provuar 17.10.2026); Pixabay e bllokon serverin.
 
