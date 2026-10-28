@@ -37,3 +37,17 @@ Ora 16:00. „Ti je gjithmonë kaq i qetë.“ Dhe ti buzëqesh, edhe pse brenda
 Ta kanë thënë ndonjëherë? Shkruaj „po“.
 Dërgoja shokut më të qetë që ke. Ndoshta ka nevojë ta dëgjojë dikush.
 #shprehu #shqip #shqiptaret #qetesia #puna #ndjenja #shendetimendor #kosova #shqiperia #albanian
+
+## 04 Tre sekondat e para (ndjesi pa emër, ora 07:00, për mëngjes)
+E re: momenti i parë pas zgjimit, kur mendja ende s'ka sjellë hallet; dielli që lind, zogjtë, kartat „Takimi, Mesazhi, Fatura“, çanta, dritarja me dritë. Postoje në mëngjes, 07:00 deri 08:30.
+
+Hook-e për A/B:
+1. Për tre sekonda s’mban mend asgjë. Pastaj të kujtohen të gjitha.
+2. Mendja zgjohet pak pas teje. Dhe sjell me vete gjithë çantën.
+3. Ato tre sekonda janë të tuat.
+
+Përshkrimi:
+Ora 07:00. Për tre sekonda s’mban mend asgjë. Pastaj mendja i rendit një nga një: takimi, mesazhi, fatura.
+Sa zgjasin sekondat e tua të qeta? Shkruaj një numër.
+Ruaje për nesër në mëngjes dhe dërgoja dikujt që zgjohet me mendje plot.
+#shprehu #shqip #shqiptaret #mengjesi #mendja #ndjenja #shendetimendor #kosova #shqiperia #albanian
