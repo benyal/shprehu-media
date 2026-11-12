@@ -3,6 +3,7 @@
 E re: tri objekte të dimrit që s’janë bërë kurrë (avulli në xham, bojleri, gështenjat në sobë), me tre pamje të ndryshme (dritare me mjegull në muzg, pllaka banje me bojler, sobë natën). Vetëm njëra ka gjyshen, sepse gjyshja doli në 6 nga 9 postimet e fundit. Orët pas 15:00, sipas matjes së 11.11 (para 15:00 mesatarisht 54 deri 60 shikime, pas 15:00 rreth 92).
 
 ## 15:30 Avulli në xham
+Instagram: https://www.instagram.com/reel/DfpR1BFHJMV/ (doli 15:32). Facebook: https://www.facebook.com/reel/1156416603472668/ (doli 15:32).
 Formula: sjellje e fshehur me orë (ora 16:40, nëntor).
 Muzika: Chopin, Nocturne në sol maxhor, op. 37 nr. 2, Olga Gurevich, CC0 1.0, https://archive.org/details/parso-1c53a71e4ef6f47591ab605d801bc3780b27824a (përdorur më parë 24.10, më shumë se 14 ditë më parë), kontrolluar 12.11.2026.
 Hook-e A/B:
