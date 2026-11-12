@@ -25,6 +25,7 @@ Shprehu nuk është shërbim urgjence. Në rrezik, telefono 112.
 #shprehu #nentori #dimri #shqip #shqiptaret #kosova #shqiperia #shendetimendor
 
 ## 18:30 A e ndezi kush bojlerin?
+Instagram: https://www.instagram.com/reel/DfpmYf3DblR/ (doli 18:32). Facebook: https://www.facebook.com/reel/1171324945229927/ (doli 18:32).
 Formula: ritual shqiptar me kuptim të ri (bojleri i mbrëmjes, me humor).
 Muzika: Chopin, Grande Valse Brillante në mi bemol maxhor, op. 18, CC0 1.0, https://archive.org/details/parso-1156004eeb5fe19016e5be19e02efbfd0d26d675 (përdorur më parë 28.10, 15 ditë më parë), kontrolluar 12.11.2026.
 Hook-e A/B:
