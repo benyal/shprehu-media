@@ -47,6 +47,7 @@ Shprehu nuk është shërbim urgjence. Në rrezik, telefono 112.
 #shprehu #bojleri #mbremja #shqip #shqiptaret #kosova #shqiperia #shendetimendor
 
 ## 21:30 Gështenjat në sobë
+Instagram: https://www.instagram.com/reel/Dfp6-LfFdOY/ (doli 21:32). Facebook: https://www.facebook.com/reel/1003596069457204/ (doli 21:31).
 Formula: urtësia e gjyshes me një objekt shtëpie (formula më e fortë në Instagram: saçi 173, dantella 168).
 Muzika: Chopin, Valsi nr. 19 në la minor, Op. posth., Aya Higuchi, CC0 1.0, https://archive.org/details/parso-08e57b88c8badbff300ef033655023e035bbfe2a (përdorur më parë 22.10, 21 ditë më parë), kontrolluar 12.11.2026.
 Hook-e A/B:
