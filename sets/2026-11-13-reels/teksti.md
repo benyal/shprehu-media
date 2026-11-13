@@ -68,3 +68,4 @@ Shprehu nuk është shërbim urgjence. Në rrezik, telefono 112.
 ## Linket pas publikimit
 - 15:30 Qilimat në oborr: s’doli më 13.11 (Composio s’lidhej, 502); zhvendosur te 14.11, 15:30.
 - 18:30 Çelësi te fqinja (13.11, 18:32): Instagram https://www.instagram.com/reel/DfsLLXAj-4f/ ; Facebook video 1311303321569157 (faqja 1400801269777017).
+- 21:30 Kavanozat e gjyshes (13.11, 21:39): Instagram https://www.instagram.com/reel/DfsgmnbEdCD/ ; Facebook video 1794509285173741 (faqja 1400801269777017).
