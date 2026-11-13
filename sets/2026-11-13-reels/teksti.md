@@ -66,4 +66,5 @@ Shprehu nuk është shërbim urgjence. Në rrezik, telefono 112.
 #shprehu #gjyshja #kuzhina #shqip #shqiptaret #kosova #shqiperia #shendetimendor
 
 ## Linket pas publikimit
-(plotësohen pas çdo postimi)
+- 15:30 Qilimat në oborr: s’doli më 13.11 (Composio s’lidhej, 502); zhvendosur te 14.11, 15:30.
+- 18:30 Çelësi te fqinja (13.11, 18:32): Instagram https://www.instagram.com/reel/DfsLLXAj-4f/ ; Facebook video 1311303321569157 (faqja 1400801269777017).
