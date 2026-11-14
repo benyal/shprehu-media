@@ -46,3 +46,4 @@ Shprehu nuk është shërbim urgjence. Në rrezik, telefono 112.
 
 ## Linket pas publikimit
 - 18:30 Gjyshja i fliste maces (14.11, 18:31): Instagram https://www.instagram.com/reel/Dfuv4m0jZFj/ ; Facebook video 4733157660301595 (faqja 1400801269777017).
+- 21:30 Kutia me kartolina (14.11, 21:32): Instagram https://www.instagram.com/reel/DfvEgwkiHTE/ ; Facebook video 1115967981317927 (faqja 1400801269777017).
