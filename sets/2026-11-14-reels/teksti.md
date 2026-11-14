@@ -45,3 +45,4 @@ Shprehu nuk është shërbim urgjence. Në rrezik, telefono 112.
 #shprehu #kartolina #nostalgji #shqip #shqiptaret #kosova #shqiperia #shendetimendor
 
 ## Linket pas publikimit
+- 18:30 Gjyshja i fliste maces (14.11, 18:31): Instagram https://www.instagram.com/reel/Dfuv4m0jZFj/ ; Facebook video 4733157660301595 (faqja 1400801269777017).
