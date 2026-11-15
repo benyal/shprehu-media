@@ -66,3 +66,4 @@ Shprehu nuk është shërbim urgjence. Në rrezik, telefono 112.
 #shprehu #ditari #nostalgji #shqip #shqiptaret #kosova #shqiperia #shendetimendor
 
 ## Linket pas publikimit
+- 15:30 Xhupi i vëllait të madh (15.11, 15:32): Instagram https://www.instagram.com/reel/DfxAIKLD_cc/ ; Facebook video 4663813833900152 (faqja 1400801269777017).
