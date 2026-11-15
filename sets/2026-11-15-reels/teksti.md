@@ -68,3 +68,4 @@ Shprehu nuk është shërbim urgjence. Në rrezik, telefono 112.
 ## Linket pas publikimit
 - 15:30 Xhupi i vëllait të madh (15.11, 15:32): Instagram https://www.instagram.com/reel/DfxAIKLD_cc/ ; Facebook video 4663813833900152 (faqja 1400801269777017).
 - 18:30 Bastuni i gjyshit (15.11, 18:31): Instagram https://www.instagram.com/reel/DfxUpBKlBDn/ ; Facebook video 1464372155843745 (faqja 1400801269777017).
+- 21:30 Ditari me dry (15.11, 21:32): Instagram https://www.instagram.com/reel/DfxpZx4l8hW/ ; Facebook video 2111747240215930 (faqja 1400801269777017).
