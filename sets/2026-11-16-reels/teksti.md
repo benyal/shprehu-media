@@ -66,3 +66,4 @@ Shprehu nuk është shërbim urgjence. Në rrezik, telefono 112.
 #shprehu #kabina #nostalgji #shqip #shqiptaret #kosova #shqiperia #shendetimendor
 
 ## Linket pas publikimit
+- 15:30 Goma e biçikletës (16.11, 15:31): Instagram https://www.instagram.com/reel/Dfzk5mwjdgk/ ; Facebook video 2321348775320319 (faqja 1400801269777017).
