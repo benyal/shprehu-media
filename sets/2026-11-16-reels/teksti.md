@@ -68,3 +68,4 @@ Shprehu nuk është shërbim urgjence. Në rrezik, telefono 112.
 ## Linket pas publikimit
 - 15:30 Goma e biçikletës (16.11, 15:31): Instagram https://www.instagram.com/reel/Dfzk5mwjdgk/ ; Facebook video 2321348775320319 (faqja 1400801269777017).
 - 18:30 Kaseta dhe lapsi (16.11, 18:32): Instagram https://www.instagram.com/reel/Dfz5hGhmR18/ ; Facebook video 1285084563831226 (faqja 1400801269777017).
+- 21:30 Kabina telefonike (16.11, 21:31): Instagram https://www.instagram.com/reel/Df0OEXvjRWZ/ ; Facebook video 1419566470382251 (faqja 1400801269777017).
