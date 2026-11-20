@@ -46,3 +46,5 @@ Shënim: incompetech.com shkarkohet nga serveri (provuar 17.10.2026); Pixabay e 
 | Chopin-Valsi-op64-nr1-re-bemol-maxhor-Musopen-CC0.mp3 | Valsi në re bemol maxhor, op. 64 nr. 1 (40 s) | Frédéric Chopin (domen publik), regjistrim Musopen | https://archive.org/details/musopen-chopin | CC0 | 13.11.2026, Reel „kavanozat e gjyshes“ |
 
 Përdorime të reja, 19.11.2026: Nocturne op. 15 nr. 1 (Reel „Sapuni i gjyshes“), Polonaza op. 71 nr. 2 (Reel „Kutia e kopsave“), Nocturne op. 32 nr. 2 (Reel „Hekurosja e natës“). E re, pa skedar këtu: Chopin, Nocturne op. 9 nr. 3, Musopen, CC0 1.0, https://archive.org/download/musopen-chopin/NocturneOp.9No.3.mp3, kontrolluar 19.11.2026 (videoja 60 s e aplikacionit).
+
+Përdorime të reja, 20.11.2026: Nocturne op. 9 nr. 2 (Reel „Puzzle-i i dimrit“), Preludi op. 28 nr. 15 (Reel „Drita e korridorit“), Balada nr. 4 (Reel „Radioja e gjyshit“).
