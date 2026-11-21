@@ -48,3 +48,5 @@ Shënim: incompetech.com shkarkohet nga serveri (provuar 17.10.2026); Pixabay e 
 Përdorime të reja, 19.11.2026: Nocturne op. 15 nr. 1 (Reel „Sapuni i gjyshes“), Polonaza op. 71 nr. 2 (Reel „Kutia e kopsave“), Nocturne op. 32 nr. 2 (Reel „Hekurosja e natës“). E re, pa skedar këtu: Chopin, Nocturne op. 9 nr. 3, Musopen, CC0 1.0, https://archive.org/download/musopen-chopin/NocturneOp.9No.3.mp3, kontrolluar 19.11.2026 (videoja 60 s e aplikacionit).
 
 Përdorime të reja, 20.11.2026: Nocturne op. 9 nr. 2 (Reel „Puzzle-i i dimrit“), Preludi op. 28 nr. 15 (Reel „Drita e korridorit“), Balada nr. 4 (Reel „Radioja e gjyshit“).
+
+Përdorime të reja, 21.11.2026 (të gjitha nga https://archive.org/details/musopen-chopin, CC0, kontrolluar 21.11.2026, para kësaj s’ishin përdorur): Mazurka op. 59 nr. 2 (Reel „Buka e mëngjesit“), Mazurka op. 17 nr. 4 (Reel „Lulet natën e parë me ngricë“), Nocturne op. 48 nr. 1 (Reel „Tavlla me gjyshin“).
