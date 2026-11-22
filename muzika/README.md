@@ -50,3 +50,5 @@ Përdorime të reja, 19.11.2026: Nocturne op. 15 nr. 1 (Reel „Sapuni i gjyshes
 Përdorime të reja, 20.11.2026: Nocturne op. 9 nr. 2 (Reel „Puzzle-i i dimrit“), Preludi op. 28 nr. 15 (Reel „Drita e korridorit“), Balada nr. 4 (Reel „Radioja e gjyshit“).
 
 Përdorime të reja, 21.11.2026 (të gjitha nga https://archive.org/details/musopen-chopin, CC0, kontrolluar 21.11.2026, para kësaj s’ishin përdorur): Mazurka op. 59 nr. 2 (Reel „Buka e mëngjesit“), Mazurka op. 17 nr. 4 (Reel „Lulet natën e parë me ngricë“), Nocturne op. 48 nr. 1 (Reel „Tavlla me gjyshin“).
+
+Përdorime të reja, 22.11.2026 (https://archive.org/details/musopen-chopin, CC0, kontrolluar 22.11.2026, të pa përdorura më parë): Mazurka op. 50 nr. 1 (Reel „Ftonjtë mbi dollap“), Mazurka op. 56 nr. 2 (Reel „Biçikleta“), Mazurka op. 59 nr. 1 (Reel „Sankat në kodër“).
