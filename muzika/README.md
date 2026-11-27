@@ -56,3 +56,5 @@ Përdorime të reja, 22.11.2026 (https://archive.org/details/musopen-chopin, CC0
 Përdorime të reja, 23.11.2026 (https://archive.org/details/musopen-chopin, CC0, kontrolluar 23.11.2026, të pa përdorura më parë): Mazurka op. 24 nr. 2 (Reel „Kapelja e leshit“), Mazurka op. 17 nr. 3 (Reel „Zilja e derës“), Mazurka op. 56 nr. 1 (Reel „Aeroplani prej letre“).
 
 Përdorime të reja, 25.11.2026 (https://archive.org/details/musopen-chopin, CC0, kontrolluar 25.11.2026, të pa përdorura më parë): Valsi op. 70 nr. 1 në sol bemol maxhor (Reel „Vargu i specave“), Valsi B. 46 në mi bemol maxhor (Reel „Kova e pusit“, nga sekonda 0.42), Valsi op. 70 nr. 3 në re bemol maxhor (Reel „Detyrat te tryeza e kuzhinës“, nga sekonda 0.44).
+
+Përdorime të reja, 27.11.2026 (https://archive.org/details/musopen-chopin, CC0, kontrolluar 27.11.2026, të pa përdorura më parë): Mazurka op. 7 nr. 4 në la bemol maxhor (Reel „Fletorja e gjyshit“), Valsi nr. 8 op. 64 nr. 3 në la bemol maxhor (Reel „Si je?“), Nocturne op. 48 nr. 2 në fa diez minor (Reel „Thirrjet e humbura“).
